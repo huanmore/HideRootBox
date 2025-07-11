@@ -33,10 +33,4 @@
    ### 安装使用
    ```bash
    # 下载脚本
-   curl -LO https://github.com/huanmore/HideRootBox/releases/download/v2.0.0/HideRootBox2.0.0.sh
-   
-   # 授予执行权限
-   chmod +x HideRootBox2.0.0.sh
-   
-   # 执行脚本 (需要root)
-   su -c ./HideRootBox2.0.0.sh
+   curl -LO https://github.com/huanmore/HideRootBox/releases/download/v3.0.0/HideRootBox3.0.0.sh
