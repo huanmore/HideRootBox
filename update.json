@@ -1,0 +1,6 @@
+{
+  "version": "v3.1.0",
+  "versionCode": 310,
+  "changelog": "1. 新增云端更新功能\\n2. 修复已知问题\\n3. 优化性能",
+  "downloadUrl": "https://github.com/huanmore/HideRootBox/releases/download/v3.1.0/HideRootBox3.1.0.sh"
+}
